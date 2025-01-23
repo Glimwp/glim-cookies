@@ -16,7 +16,9 @@ namespace GlimFSE\Support\Modules;
 
 defined( 'ABSPATH' ) || exit;
 
-use GlimFSE\{ Singleton, Integration };
+use GlimFSE\Config\Traits\Singleton;
+use GlimFSE\Config\interfaces\Integration;
+
 use GlimFSE\Config\Traits\{ Asset, No_Conditionals };
 use function GlimFSE\Functions\{ get_prop, toJSON, get_lightness_limit };
 
