@@ -85,7 +85,7 @@ __webpack_require__.r(__webpack_exports__);
  * --------------------------------------------------------------------------
  * Cookies Module
  *
- * @author 	Bican Marian Valeriu
+ * @author 	Zied Jridet
  * @version 1.0.0
  * --------------------------------------------------------------------------
  */

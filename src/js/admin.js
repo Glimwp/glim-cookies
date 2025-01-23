@@ -1,6 +1,6 @@
 /**
  * @package: 	GlimFSE Cookies Extension
- * @author: 	Bican Marian Valeriu
+ * @author: 	Zied Jridet
  * @license:	https://www.glimfse.com/
  * @version:	1.0.0
  */

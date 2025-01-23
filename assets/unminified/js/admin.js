@@ -1281,7 +1281,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_1__);
 /**
  * @package: 	GlimFSE Cookies Extension
- * @author: 	Bican Marian Valeriu
+ * @author: 	Zied Jridet
  * @license:	https://www.glimfse.com/
  * @version:	1.0.0
  */

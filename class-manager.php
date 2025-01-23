@@ -23,7 +23,7 @@ use function GlimFSE\Functions\get_prop;
 /**
  * Info.
  *
- * @author     Bican Marian Valeriu <marianvaleriubican@gmail.com>
+ * @author     Zied Jridet <zizozied2014@gmail.com>
  */
 class Manager implements Configuration {
 
